@@ -1,0 +1,5 @@
+p {font-size: 16px; line-height:2; color: white}
+body {background-image: url("images/background.jpg"); color: white; background-size: 100%}
+.carousel-indicators li {background-color: #669966;}
+.carousel-indicators .active {background-color: #e6e600;}
+.carousel-inner {height:775 ;width:1600}
