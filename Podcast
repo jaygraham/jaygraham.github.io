@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Starving Artist Podcast</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+	<body>
+	<div id="wrapper">
+	<div id="main">
+	<div class="inner">
+		<header id="header">
+		<a href="index.html" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+		</header>
+
+			<section>
+			<header class="main">
+				<h1>Generic</h1>
+			</header>
+			<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+
+									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+			</section>
+			</div>
+			</div>
+<!-- Sidebar -->
+	<div id="sidebar">
+	<div class="inner">
+<!-- Menu -->
+	<nav id="menu">
+		<header class="major">
+			<h2>Menu</h2>
+		</header>
+		<ul>
+		<li><a href="index.html">Homepage</a></li>
+		<li>
+		<span class="opener">Starving Artist Group Work</span>
+		<ul>
+		<li><a href="generic.html">Newsletters</a></li>
+		<li><a href="elements.html">Podcast</a></li>
+			<!--This link is broken and needs to be createed--->
+		<li><a href="Video page.html">Video</a></li>	
+		</ul>
+		</li>
+		<li><a href="#">Other Work</a></li>
+		</ul>
+		</nav>
+
+	<section>
+	<header class="major">
+	<h2>Get in touch</h2>
+	</header>
+	<p>Have any questions? Need to talk about ENGL 3844, VT, or maybe the Professional and Technical Writing (PTW) Major? Contact me.</p>
+		<ul class="contact">
+			<li class="fa-envelope-o"><a href="#">jkgraham@vt.edu</a></li>
+			<li class="fa-phone">(434) 401-5055</li>
+			<li class="fa-home">416 Harding Avenue #K<br />
+			Blacksburg, CA 24060</li>
+		</ul>
+
+	</section>
+	<footer id="footer">
+		<p class="copyright">&copy; Jay's Nest. All rights reserved.</p>
+	</footer>
+
+		</div>
+	</div>
+</div>
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+					<script src="assets/js/main.js"></script>
+
+</body>
+</html>
