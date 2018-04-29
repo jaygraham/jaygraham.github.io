@@ -21,14 +21,6 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-
-	.SoundC { 
-  
-  	width: 96%;
-  	max-width: 60em;
-  	margin: 0 auto;
-  
-	}
 	
 	body {
 		line-height: 1;
