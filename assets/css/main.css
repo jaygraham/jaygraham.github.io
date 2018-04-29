@@ -22,6 +22,14 @@
 		display: block;
 	}
 
+	.container { 
+  
+  	width: 96%;
+  	max-width: 60em;
+  	margin: 0 auto;
+  
+	}
+	
 	body {
 		line-height: 1;
 	}
