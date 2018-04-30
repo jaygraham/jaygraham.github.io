@@ -3497,7 +3497,7 @@
 				#main > .inner > section:first-of-type {
 					border-top: 0 !important;
 				}
-				#main > .inner > .video-container {
+.video-container {
 	position:relative;
 	padding-bottom:56.25%;
 	padding-top:30px;
