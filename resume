@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Resume</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+			<div id="wrapper">
+					<div id="main">
+						<div class="inner">
+								<header id="header">
+									<a href="resume.html" class="logo"><strong>Resume</strong></a>
+								</header>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+									<a href="DOcuments/Graham Resume.pdf" class="image"><img src="images/res.png" alt=""/></a>
+									</header>
+								</div>
+						</section>
+					</div>
+				</div>
+
+			<!-- Sidebar -->
+				<div id="sidebar">
+				<div class="inner">
+			<!-- Menu -->
+				<nav id="menu">
+					<header class="major">
+						<h2>Menu</h2>
+					</header>
+					<ul>
+					<li><a href="index.html">Homepage</a></li>
+	       <li><a href="resume.html">Resume</a></li>
+					<li>
+					<span class="opener">Starving Artist Group Work</span>
+					<ul>
+					<li><a href="Newsletter.html">Newsletters</a></li>
+					<li><a href="Podcast.html">Podcast</a></li>
+					<li><a href="Video.html">Video</a></li>
+					</ul>
+					</li>
+					<li><a href="Other-work">Other Work</a></li>
+					</ul>
+					</nav>
+				<section>
+				<header class="major">
+				<h2>Get in touch</h2>
+				</header>
+				<p>Have any questions? Need to talk about ENGL 3844, VT, or maybe the Professional and Technical Writing (PTW) Major? Contact me.</p>
+					<ul class="contact">
+						<li class="fa-envelope-o"><a href="#">jkgraham@vt.edu</a></li>
+						<li class="fa-phone">(434) 401-5055</li>
+						<li class="fa-home">3623 East Woodside Avenue<br />
+						Lynchburg, VA 24503</li>
+					</ul>
+				</section>
+				<footer id="footer">
+					<p class="copyright">&copy; Jay's Nest. All rights reserved.</p>
+				</footer>
+					</div>
+				</div>
+			</div>
+						<script src="assets/js/jquery.min.js"></script>
+						<script src="assets/js/skel.min.js"></script>
+						<script src="assets/js/util.js"></script>
+								<script src="assets/js/main.js"></script>
+			</body>
+			</html>
